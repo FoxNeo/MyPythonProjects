@@ -6,3 +6,8 @@ Repository to store my Python code and hacks
 
 ### Developer
 - Miguel Caceres
+
+### Run
+```shell
+$ py file.py
+```
