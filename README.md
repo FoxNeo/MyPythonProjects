@@ -11,3 +11,6 @@ Repository to store my Python code and hacks
 ```shell
 $ py file.py
 ```
+
+## License
+MIT - see [LICENSE](LICENSE.md)
