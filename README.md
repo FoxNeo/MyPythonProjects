@@ -13,4 +13,4 @@ $ py file.py
 ```
 
 ## License
-MIT - see [LICENSE](LICENSE.md)
+MIT - see [LICENSE](LICENSE)
