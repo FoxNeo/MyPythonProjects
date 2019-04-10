@@ -1,1 +1,2 @@
 Hola, esta es la linea que vamos a grabar en el fichero
+Esta es la siguiente linea de fichero
